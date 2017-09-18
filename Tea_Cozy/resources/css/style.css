@@ -1,0 +1,132 @@
+
+.wrapper {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+.header {
+  position: fixed;
+  width: 98.5%;
+  height: 69px;
+  position: fixed;
+  border-bottom: 1px solid seashell;
+  background-color: black;
+  z-index: 10;
+}
+.section1 {
+  text-align: center;
+}
+.logo {
+
+  position: relative;
+}
+.lg {
+  position: absolute;
+  left: 10px;
+  height: 50px;
+  top: 9.5px;
+  bottom: 9.5px;
+
+
+}
+.section li {
+
+  display: inline;
+  text-decoration: underline;
+
+}
+.section {
+  width: 350px;
+  position: absolute;
+  right: 20px;
+  top: 1px;
+  display: flex;
+  justify-content: space-between;
+}
+.image1 {
+  width: 1200px;
+  height: 700px;
+
+}
+.mission {
+  position: absolute;
+  top: 50%;
+  background-color: black;
+  width: 1200px;
+  left: 54.5px;
+  text-align: center;
+}
+.size {
+  width: 300px;
+  height: 200px;
+}
+.image4 {
+  width: 1200px;
+  height: 500px;
+}
+.images4 {
+  text-align: center;
+}
+.section2 {
+  display: flex;
+  justify-content: center;
+
+}
+.images2 {
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+
+
+
+}
+.section3 {
+  display: flex;
+  justify-content: center;
+}
+.images3 {
+  width: 650px;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+.tea {
+  text-align: center;
+  margin-top: 10px;
+
+}
+.locations {
+  display: flex;
+  justify-content: center;
+}
+.loc {
+  width: 300px;
+  height: 250px;
+  opacity: 1;
+  margin-top: 15px;
+  margin-right: 40px;
+  margin-left: 40px;
+  background-color: black;
+}
+.images4 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.section4 {
+  position: absolute;
+  top: 55px;
+
+}
+.contact {
+  height: 200px;
+
+}
+.copy {
+  text-align: left;
+  margin-left: 20px;
+}
